@@ -1,0 +1,8 @@
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\src\EP.CrudModalDDD.Domain\bin\Debug\EP.CrudModalDDD.Domain.dll
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\src\EP.CrudModalDDD.Domain\bin\Debug\EP.CrudModalDDD.Domain.pdb
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\src\EP.CrudModalDDD.Domain\bin\Debug\DomainValidation.dll
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\src\EP.CrudModalDDD.Domain\obj\Debug\EP.CrudModalDDD.Domain.csprojResolveAssemblyReference.cache
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\src\EP.CrudModalDDD.Domain\obj\Debug\EP.CrudModalDDD.Domain.csproj.CoreCompileInputs.cache
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\src\EP.CrudModalDDD.Domain\obj\Debug\EP.CrudModalDDD.Domain.csproj.CopyComplete
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\src\EP.CrudModalDDD.Domain\obj\Debug\EP.CrudModalDDD.Domain.dll
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\src\EP.CrudModalDDD.Domain\obj\Debug\EP.CrudModalDDD.Domain.pdb

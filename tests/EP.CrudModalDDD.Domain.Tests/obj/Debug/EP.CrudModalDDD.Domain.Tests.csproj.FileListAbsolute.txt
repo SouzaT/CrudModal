@@ -1,0 +1,13 @@
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\bin\Debug\EP.CrudModalDDD.Domain.Tests.dll
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\bin\Debug\EP.CrudModalDDD.Domain.Tests.pdb
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\bin\Debug\DomainValidation.dll
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\bin\Debug\EP.CrudModalDDD.Domain.dll
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\bin\Debug\Rhino.Mocks.dll
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\bin\Debug\EP.CrudModalDDD.Domain.pdb
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\bin\Debug\Rhino.Mocks.xml
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\obj\Debug\EP.CrudModalDDD.Domain.Tests.csprojResolveAssemblyReference.cache
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\obj\Debug\EP.CrudModalDDD.Domain.Tests.csproj.CoreCompileInputs.cache
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\obj\Debug\EP.CrudModalDDD.Domain.Tests.csproj.CopyComplete
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\obj\Debug\EP.CrudModalDDD.Domain.Tests.dll
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\tests\EP.CrudModalDDD.Domain.Tests\obj\Debug\EP.CrudModalDDD.Domain.Tests.pdb

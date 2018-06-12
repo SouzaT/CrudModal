@@ -1,0 +1,9 @@
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.dll
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\bin\Debug\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.pdb
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.Mvc.dll
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\bin\Debug\System.Web.Mvc.xml
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.csprojResolveAssemblyReference.cache
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.csproj.CoreCompileInputs.cache
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.csproj.CopyComplete
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.dll
+D:\Eduardo Pires\ArquiteturaEduardoPires\CrudDDDModal\src\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters\obj\Debug\EP.CrudModalDDD.Infra.CrossCutting.MvcFilters.pdb
